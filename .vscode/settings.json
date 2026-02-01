@@ -31,5 +31,27 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.inlineSuggest.edits.allowCodeShifting": "always",
+  "editor.inlineSuggest.edits.showLongDistanceHint": true,
+  "editor.inlineSuggest.experimental.emptyResponseInformation": true,
+  "editor.inlineSuggest.edits.renderSideBySide": "auto",
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.showToolbar": "onHover",
+  "editor.inlineSuggest.suppressInSnippetMode": true,
+  "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.snippetSuggestions": "inline",
+  "editor.suggest.matchOnWordStartOnly": true,
+  "editor.suggest.selectionMode": "always",
+  "editor.suggest.shareSuggestSelections": true,
+  "editor.inlineSuggest.triggerCommandOnProviderChange": true,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "editor.inlineSuggest.minShowDelay": 10,
+  "editor.suggest.preview": true,
+  "editor.suggest.localityBonus": true,
+  "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+  "editor.inlineSuggest.edits.showCollapsed": true
 }
